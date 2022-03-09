@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
    <a href="https://github.com/Aldrik-Alvaro">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img height = "80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </a>
   </br> Not counting private repositories
 </div>
