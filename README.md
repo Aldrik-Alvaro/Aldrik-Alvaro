@@ -14,11 +14,19 @@ Here are some ideas to get you started:
 
 
 <br>
-
 <div align = "center">
-  <a href="https://github.com/heitorsam">
+  <a href="https://github.com/Aldrik-Alvaro">
    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
   </a>
   </br> Not counting private repositories
 </div>
-##
+
+<br>
+
+<div align = "center">
+   <a href="https://github.com/Aldrik-Alvaro">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </a>
+  </br> Not counting private repositories
+</div>
+
