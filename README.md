@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+<div align = "center">
+  <a href="https://github.com/heitorsam">
+   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=synthwave &include_all_commits=true&count_private=true" />
+   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aldrik-Alvaro&layout=compact&langs_count=7&theme=synthwave &include_all_commits=true" />
+  </a>
+  </br> Not counting private repositories
+</div>
