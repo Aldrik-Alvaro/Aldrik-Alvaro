@@ -22,7 +22,7 @@
    <!--- PHP ---><img align = "center" alt = "" height = "85" width = "95" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
    <!--- CSS3 ---><img align = "center" alt = "" height = "85" width = "95" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
   <!--- BOOTSTRAP ---><img align = "center" alt = "" height = "85" width = "95" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
-   <!--- JAVA ---><img align = "center" alt = "" height = "85" width = "95" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  
    <!--- MYSQL ---><img align = "center" alt = "" height = "85" width = "95" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
    <!--- ORACLE ---><img align = "center" alt = "" height = "85" width = "95" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   </a>
