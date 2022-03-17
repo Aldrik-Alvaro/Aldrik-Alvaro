@@ -3,12 +3,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 Auxiliar de Projetos - Santa Casa de São José dos Campos 
+- 🌱 Banco de Dados - Fatec - Prof. Jessen Vidal Semestre°(2/6)
+
+
+- 💬 Likedin: www.linkedin.com/in/aldrik-alvaro-0bb952180
+- 📫 Email: Aldrikfariaalvaro@gmail.com
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
   </a>
   </br>
-  ##Linguagens
+  Linguagens
 </div>
 
 <br>
