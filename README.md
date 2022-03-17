@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
    <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
    <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-   <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+   //<img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   
    
   
