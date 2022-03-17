@@ -9,10 +9,15 @@
 <br>
 <div align = "center">
   <a href="https://github.com/Aldrik-Alvaro">
-   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+   <img height = "190em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
   </a>
+  
+  <a href="https://github.com/Aldrik-Alvaro">
+   <img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aldrik-Alvaro&layout=compact&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  </a></br> Not counting private repositories
+  
   </br></br></br>
-  Linguagens
+  <h1>Linguagens</h1>
 </div>
 <br>
 
@@ -26,5 +31,5 @@
    <!--- MYSQL ---><img align = "center" alt = "" height = "85" width = "95" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
    
   </a>
-  </br></br> Not counting private repositories
+  </br>
 </div>
