@@ -40,6 +40,6 @@ Here are some ideas to get you started:
   
 
   </a>
-  </br> Not counting private repositories
+  </br></br> Not counting private repositories
 </div>
 
