@@ -18,19 +18,22 @@ Here are some ideas to get you started:
   <a href="https://github.com/Aldrik-Alvaro">
    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
   </a>
-  </br> Not counting private repositories
+  </br>
+  ##Linguagens
 </div>
 
 <br>
 
+
 <div align = "center">
-   <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-   <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-   <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-   <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-   <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
-   <img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-   //<img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+   <!--- LARAVEL ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+   <!--- HTML5 ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+   <!--- PHP ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+   <!--- CSS3 ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <!--- BOOTSTRAP ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+   <!--- JAVA ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+   <!--- MYSQL ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+   <!--- ORACLE ---><img align = "center" alt = "php" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   
    
   
