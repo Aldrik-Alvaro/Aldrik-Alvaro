@@ -9,11 +9,11 @@
 <br>
 <div align = "center">
   <a href="https://github.com/Aldrik-Alvaro">
-   <img height = "190em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=cobalt&include_all_commits=true" />
+   <img height = "190em" src = "https://github-readme-stats.vercel.app/api?username=Aldrik-Alvaro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=false" />
   </a>
   
   <a href="https://github.com/Aldrik-Alvaro">
-   <img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aldrik-Alvaro&layout=compact&show_icons=true&theme=cobalt&include_all_commits=true" />
+   <img height = "190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aldrik-Alvaro&layout=compact&show_icons=true&theme=cobalt&include_all_commits=true&count_private=false" />
   </a></br> Not counting private repositories
   
   </br></br></br>
