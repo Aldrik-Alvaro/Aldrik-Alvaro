@@ -6,6 +6,7 @@
 - 💬 **Likedin:** www.linkedin.com/in/aldrik-alvaro-0bb952180
 - 📫 **Email:** Aldrikfariaalvaro@gmail.com
 
+
 <br>
 <div align = "center">
   <a href="https://github.com/Aldrik-Alvaro">
@@ -33,3 +34,5 @@
   </a>
   </br>
 </div>
+
+![snake gif](https://raw.githubusercontent.com/Aldrik-Alvaro/Aldrik-Alvaro/output/github-contribution-grid-snake.gif)
