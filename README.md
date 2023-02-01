@@ -2,7 +2,7 @@
 
 
 - 🔭 **Estagiario** - Dom Rock
-- 🌱 **Tecnólogo em Banco de Dados** - Fatec - Prof. Jessen Vidal Semestre°(3/6)
+- 🌱 **Tecnólogo em Banco de Dados** - Fatec - Prof. Jessen Vidal Semestre°(4/6)
 - 💬 **Likedin:** www.linkedin.com/in/aldrik-alvaro-0bb952180
 - 📫 **Email:** Aldrikfariaalvaro@gmail.com
 
