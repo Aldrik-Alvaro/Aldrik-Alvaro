@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 **Auxiliar de Projetos** - Santa Casa de São José dos Campos 
+- 🔭 **Estagiario** - Dom Rock
 - 🌱 **Tecnólogo em Banco de Dados** - Fatec - Prof. Jessen Vidal Semestre°(3/6)
 - 💬 **Likedin:** www.linkedin.com/in/aldrik-alvaro-0bb952180
 - 📫 **Email:** Aldrikfariaalvaro@gmail.com
