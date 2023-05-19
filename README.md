@@ -20,7 +20,7 @@ Além disso, sou apaixonado por programação e estou sempre buscando aprimorar 
 ![PHP](https://img.shields.io/badge/PHP-7.4-000000?style=flat&logo=php)
 </p>
 
- **Rede Sociais e contatos:**
+ **Rede Sociais:**
  
   <a href="https://www.linkedin.com/in/aldrik-alvaro-0bb952180/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
