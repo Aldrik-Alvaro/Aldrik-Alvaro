@@ -3,8 +3,7 @@
 <img src="https://i.pinimg.com/originals/3e/fc/f1/3efcf1e9a5f2c3354714699b321221b4.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Olá pessoal! Sou o Aldrik, tenho 22 anos e sou estudante de banco de dados na Fatec - Prof. Jessen Vidal, no 5º semestre de um total de 6.
-Além disso, sou apaixonado por programação e estou sempre buscando aprimorar minhas habilidades. 
+Olá pessoal! Sou o Aldrik, tenho 22 anos e sou estudante de banco de dados na Fatec - Prof. Jessen Vidal, e além disso, sou apaixonado por programação e estou sempre buscando aprimorar minhas habilidades. 
 
 </p>
 
